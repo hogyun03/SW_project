@@ -1,0 +1,15 @@
+git config --global user.name hogyun03
+
+git config --global user.email dlaghrbs01@naver.com
+
+cd C:\Education
+
+git clone https://github.com/hogyun03/SW_project.git
+
+cd SW_project
+
+git add document.txt
+
+git commit -m "Add Text File [document.txt]"
+
+git push
